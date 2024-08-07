@@ -1,4 +1,4 @@
-🛒 Robo de Automação para Mercearia
+## 🛒 Robo de Automação para Mercearia
 📜 Descrição
 Este projeto consiste em um robô de automação desenvolvido em Python usando PyAutoGUI e Tkinter, projetado para ajudar uma mercearia a otimizar processos manuais. O robô facilita o cadastro de faturas e gera relatórios de débitos, tirando prints dos saldos de clientes devedores.
 
@@ -17,7 +17,7 @@ Clone este repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu_usuario/seu_repositorio.git
+git clone https://github.com/seu_usuario/jotacemartins
 Navegue até o diretório do projeto:
 
 bash
