@@ -17,7 +17,7 @@ Clone este repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu_usuario/jotacemartins
+git clone https://github.com/jotacemartins
 Navegue até o diretório do projeto:
 
 bash
