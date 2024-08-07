@@ -64,7 +64,7 @@ def selecionar_arquivo_dialogo():
 
 if __name__ == "__main__":
     root = tk.Tk()
-    root.title("Olá eu sou o Franky, o robô processador")
+    root.title("Olá Amós, bom dia!")
     root.geometry("500x200")
 
     label_instrucao = tk.Label(root, text="Selecione o arquivo TXT e clique em 'Iniciar Processamento':")
